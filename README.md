@@ -25,7 +25,7 @@
 [![](https://visitcount.itsvg.in/api?id=ianshusharmaa&icon=1&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--updated-->
+<!--Updated-->
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
